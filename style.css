@@ -1,4 +1,14 @@
 body {
     background-color: #2a16da;
     color: #fa1010;
+    margin: 0px;
+}
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(241, 17, 17);
+}
+section{
+    background: rgb(red, green, );
 }
